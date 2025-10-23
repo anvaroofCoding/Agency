@@ -97,7 +97,7 @@ export default function HomePage() {
 							</div>
 
 							{/* Right content */}
-							<div className='lg:flex-1 hidden relative'>
+							<div className='hidden lg:flex flex-1 relative'>
 								<SplineScene
 									scene='https://prod.spline.design/UbM7F-HZcyTbZ4y3/scene.splinecode'
 									className='w-full h-full'
